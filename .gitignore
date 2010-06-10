@@ -1,0 +1,13 @@
+.DS_Store
+*.user
+*.suo
+*resharper.user
+_ReSharper.*/
+*.orig
+*.sln.cache
+obj
+bin
+Bin
+!lib/**/bin
+*.eprj
+Reports/*
